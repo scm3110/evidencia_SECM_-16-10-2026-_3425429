@@ -1,0 +1,10 @@
+{
+  "name": "talleres-sena-16-10-2026",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica con funciones de orden superior y callbacks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
